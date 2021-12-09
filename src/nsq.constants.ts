@@ -1,0 +1,1 @@
+export const NSQ_MODULE_OPTIONS = 'NSQ_MODULE_OPTIONS';
